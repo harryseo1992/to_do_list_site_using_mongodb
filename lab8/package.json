@@ -1,0 +1,18 @@
+{
+  "name": "to-do-app-mvc-session",
+  "version": "1.0.0",
+  "description": "To do application created using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhupinder Manhas",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.10.15",
+    "node-session": "^1.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
